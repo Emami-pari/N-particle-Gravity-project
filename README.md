@@ -1,4 +1,4 @@
-# N-particle-Gravity-project
+# bachelor_project_2012
 C++ and Mathematica simulation of N-body gravitational interactions and stellar mergers.
 ---
 
